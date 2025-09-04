@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hey, I'm Sung Hwan Yun
 
+
+📧 Email | MenOfPassion@kaist.ac.kr
 <!--
 **SungHwanYun/SungHwanYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
