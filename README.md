@@ -1,4 +1,4 @@
-## Hey, I'm Sung Hwan Yun
+## Hi, I'm Sung Hwan Yun
 
 - Education: B.S. in Computer Science, KAIST
 - High School Software Teacher (2020–Present)
