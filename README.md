@@ -1,18 +1,11 @@
 ## Hey, I'm Sung Hwan Yun
 
-
-📧 Email | MenOfPassion@kaist.ac.kr
-<!--
-**SungHwanYun/SungHwanYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Education: B.S. in Computer Science, KAIST
+Experience: 20 years as a Software Engineer at Samsung Electronics (MX Division)
+Expertise: System Software, Algorithms
+Achievements:
+- Author of "One-Stop Guide to Coding Tests" (selected as an Excellent Academic Book by Sejong Books)
+- Ranked #9 on Baekjoon Online Judge (solved 9,400+ problems), #2 as a problem setter (132 problems created)
+- Ranked CUDA #4 on LeetGPU
+- Contributor to problem setting and reviewing for Sejong Informatics Olympiad
+Email | MenOfPassion@kaist.ac.kr
