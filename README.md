@@ -1,6 +1,6 @@
 ## Hi, I'm Sung Hwan Yun
 
-- Education: B.S. in Computer Science, KAIST
+- Education: B.S. in Computer Science, [KAIST](https://kaist.ac.kr/)
 - High School Software Teacher (2020–Present)
 - System Software Engineer, Samsung Electronics, MX Division (2003–2020)
 - Author of *One-Stop Guide to Coding Tests* (selected as an Excellent Academic Book by Sejong Books)
