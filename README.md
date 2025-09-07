@@ -12,7 +12,7 @@
         - To lead virtual memory team
         - To develop new writable compressed file system [scfs](https://github.com/SungHwanYun/scfs) (Samsung Compressed File System), [j4fs](https://github.com/SungHwanYun/j4fs)
         - To develop and commercialize  new compressed swap [Sswap](https://github.com/SungHwanYun/sswap) (Samsung swap)
-    - Android Smartphone Linux Kernel Engineer(Galaxy Series) (2008–2011) 
+    - Android Smartphone Linux Kernel Engineer (Galaxy Series) (2008–2011) 
     - Feature Phone System S/W Engineer (2003–2007)
 4. [Author](https://product.kyobobook.co.kr/detail/S000208257767) of *One-Stop Guide to Coding Tests* (selected as an Excellent Academic Book by Sejong Books)
 5. Operator of [JoonLab](https://joonlab.net) Online Judge (Handle: [MenOfassion](https://joonlab.net/userinfo.php?user=MenOfPassion); 1000+ problems created)
